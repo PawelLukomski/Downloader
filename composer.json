@@ -1,0 +1,9 @@
+{
+    "name": "toor/catalog-manager",
+    "require": {},
+    "autoload": {
+     "psr-4": {
+      "": "src/"
+     }
+    }
+}

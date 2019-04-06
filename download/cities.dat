@@ -1,0 +1,919 @@
+{"voivodeship":"mazowieckie","city":"Warszawa"}
+{"voivodeship":"ma\u0142opolskie","city":"Krak\u00f3w"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"\u0141\u00f3d\u017a"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Wroc\u0142aw"}
+{"voivodeship":"wielkopolskie","city":"Pozna\u0144"}
+{"voivodeship":"pomorskie","city":"Gda\u0144sk"}
+{"voivodeship":"zachodniopomorskie","city":"Szczecin"}
+{"voivodeship":"kujawsko-pomorskie","city":"Bydgoszcz"}
+{"voivodeship":"lubelskie","city":"Lublin"}
+{"voivodeship":"\u015bl\u0105skie","city":"Katowice"}
+{"voivodeship":"podlaskie","city":"Bia\u0142ystok"}
+{"voivodeship":"pomorskie","city":"Gdynia"}
+{"voivodeship":"\u015bl\u0105skie","city":"Cz\u0119stochowa"}
+{"voivodeship":"mazowieckie","city":"Radom"}
+{"voivodeship":"\u015bl\u0105skie","city":"Sosnowiec"}
+{"voivodeship":"kujawsko-pomorskie","city":"Toru\u0144"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Kielce"}
+{"voivodeship":"\u015bl\u0105skie","city":"Gliwice"}
+{"voivodeship":"podkarpackie","city":"Rzesz\u00f3w"}
+{"voivodeship":"\u015bl\u0105skie","city":"Zabrze"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Olsztyn"}
+{"voivodeship":"\u015bl\u0105skie","city":"Bielsko-Bia\u0142a"}
+{"voivodeship":"\u015bl\u0105skie","city":"Bytom"}
+{"voivodeship":"\u015bl\u0105skie","city":"Ruda \u015al\u0105ska"}
+{"voivodeship":"\u015bl\u0105skie","city":"Rybnik"}
+{"voivodeship":"\u015bl\u0105skie","city":"Tychy"}
+{"voivodeship":"lubuskie","city":"Gorz\u00f3w Wielkopolski"}
+{"voivodeship":"\u015bl\u0105skie","city":"D\u0105browa G\u00f3rnicza"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Elbl\u0105g"}
+{"voivodeship":"mazowieckie","city":"P\u0142ock"}
+{"voivodeship":"opolskie","city":"Opole"}
+{"voivodeship":"lubuskie","city":"Zielona G\u00f3ra"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Wa\u0142brzych"}
+{"voivodeship":"kujawsko-pomorskie","city":"W\u0142oc\u0142awek"}
+{"voivodeship":"ma\u0142opolskie","city":"Tarn\u00f3w"}
+{"voivodeship":"\u015bl\u0105skie","city":"Chorz\u00f3w"}
+{"voivodeship":"zachodniopomorskie","city":"Koszalin"}
+{"voivodeship":"wielkopolskie","city":"Kalisz"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Legnica"}
+{"voivodeship":"kujawsko-pomorskie","city":"Grudzi\u0105dz"}
+{"voivodeship":"pomorskie","city":"S\u0142upsk"}
+{"voivodeship":"\u015bl\u0105skie","city":"Jaworzno"}
+{"voivodeship":"\u015bl\u0105skie","city":"Jastrz\u0119bie-Zdr\u00f3j"}
+{"voivodeship":"ma\u0142opolskie","city":"Nowy S\u0105cz"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Jelenia G\u00f3ra"}
+{"voivodeship":"wielkopolskie","city":"Konin"}
+{"voivodeship":"mazowieckie","city":"Siedlce"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Piotrk\u00f3w Trybunalski"}
+{"voivodeship":"\u015bl\u0105skie","city":"Mys\u0142owice"}
+{"voivodeship":"kujawsko-pomorskie","city":"Inowroc\u0142aw"}
+{"voivodeship":"wielkopolskie","city":"Pi\u0142a"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Lubin"}
+{"voivodeship":"wielkopolskie","city":"Ostr\u00f3w Wielkopolski"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Ostrowiec \u015awi\u0119tokrzyski"}
+{"voivodeship":"wielkopolskie","city":"Gniezno"}
+{"voivodeship":"zachodniopomorskie","city":"Stargard"}
+{"voivodeship":"podlaskie","city":"Suwa\u0142ki"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"G\u0142og\u00f3w"}
+{"voivodeship":"\u015bl\u0105skie","city":"Siemianowice \u015al\u0105skie"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Pabianice"}
+{"voivodeship":"lubelskie","city":"Che\u0142m"}
+{"voivodeship":"lubelskie","city":"Zamo\u015b\u0107"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Tomasz\u00f3w Mazowiecki"}
+{"voivodeship":"wielkopolskie","city":"Leszno"}
+{"voivodeship":"podkarpackie","city":"Stalowa Wola"}
+{"voivodeship":"podkarpackie","city":"Przemy\u015bl"}
+{"voivodeship":"opolskie","city":"K\u0119dzierzyn-Ko\u017ale"}
+{"voivodeship":"podlaskie","city":"\u0141om\u017ca"}
+{"voivodeship":"\u015bl\u0105skie","city":"\u017bory"}
+{"voivodeship":"podkarpackie","city":"Mielec"}
+{"voivodeship":"\u015bl\u0105skie","city":"Tarnowskie G\u00f3ry"}
+{"voivodeship":"pomorskie","city":"Tczew"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"E\u0142k"}
+{"voivodeship":"mazowieckie","city":"Pruszk\u00f3w"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Be\u0142chat\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"\u015awidnica"}
+{"voivodeship":"\u015bl\u0105skie","city":"B\u0119dzin"}
+{"voivodeship":"lubelskie","city":"Bia\u0142a Podlaska"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Zgierz"}
+{"voivodeship":"\u015bl\u0105skie","city":"Piekary \u015al\u0105skie"}
+{"voivodeship":"\u015bl\u0105skie","city":"Racib\u00f3rz"}
+{"voivodeship":"mazowieckie","city":"Legionowo"}
+{"voivodeship":"mazowieckie","city":"Ostro\u0142\u0119ka"}
+{"voivodeship":"\u015bl\u0105skie","city":"\u015awi\u0119toch\u0142owice"}
+{"voivodeship":"\u015bl\u0105skie","city":"Zawiercie"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Starachowice"}
+{"voivodeship":"pomorskie","city":"Wejherowo"}
+{"voivodeship":"lubelskie","city":"Pu\u0142awy"}
+{"voivodeship":"\u015bl\u0105skie","city":"Wodzis\u0142aw \u015al\u0105ski"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Skierniewice"}
+{"voivodeship":"pomorskie","city":"Starogard Gda\u0144ski"}
+{"voivodeship":"podkarpackie","city":"Tarnobrzeg"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Radomsko"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Skar\u017cysko-Kamienna"}
+{"voivodeship":"pomorskie","city":"Rumia"}
+{"voivodeship":"podkarpackie","city":"Krosno"}
+{"voivodeship":"zachodniopomorskie","city":"Ko\u0142obrzeg"}
+{"voivodeship":"podkarpackie","city":"D\u0119bica"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Kutno"}
+{"voivodeship":"mazowieckie","city":"Otwock"}
+{"voivodeship":"opolskie","city":"Nysa"}
+{"voivodeship":"mazowieckie","city":"Piaseczno"}
+{"voivodeship":"mazowieckie","city":"Ciechan\u00f3w"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Zdu\u0144ska Wola"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Sieradz"}
+{"voivodeship":"zachodniopomorskie","city":"\u015awinouj\u015bcie"}
+{"voivodeship":"mazowieckie","city":"\u017byrard\u00f3w"}
+{"voivodeship":"zachodniopomorskie","city":"Szczecinek"}
+{"voivodeship":"pomorskie","city":"Chojnice"}
+{"voivodeship":"lubelskie","city":"\u015awidnik"}
+{"voivodeship":"mazowieckie","city":"Mi\u0144sk Mazowiecki"}
+{"voivodeship":"\u015bl\u0105skie","city":"Miko\u0142\u00f3w"}
+{"voivodeship":"lubuskie","city":"Nowa S\u00f3l"}
+{"voivodeship":"ma\u0142opolskie","city":"O\u015bwi\u0119cim"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Boles\u0142awiec"}
+{"voivodeship":"podkarpackie","city":"Jaros\u0142aw"}
+{"voivodeship":"\u015bl\u0105skie","city":"Knur\u00f3w"}
+{"voivodeship":"podkarpackie","city":"Sanok"}
+{"voivodeship":"pomorskie","city":"Malbork"}
+{"voivodeship":"pomorskie","city":"Kwidzyn"}
+{"voivodeship":"lubuskie","city":"\u017bary"}
+{"voivodeship":"ma\u0142opolskie","city":"Chrzan\u00f3w"}
+{"voivodeship":"pomorskie","city":"Sopot"}
+{"voivodeship":"mazowieckie","city":"Wo\u0142omin"}
+{"voivodeship":"mazowieckie","city":"Sochaczew"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Ole\u015bnica"}
+{"voivodeship":"opolskie","city":"Brzeg"}
+{"voivodeship":"ma\u0142opolskie","city":"Olkusz"}
+{"voivodeship":"podkarpackie","city":"Jas\u0142o"}
+{"voivodeship":"\u015bl\u0105skie","city":"Cieszyn"}
+{"voivodeship":"lubelskie","city":"Kra\u015bnik"}
+{"voivodeship":"\u015bl\u0105skie","city":"Czechowice-Dziedzice"}
+{"voivodeship":"pomorskie","city":"L\u0119bork"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Dzier\u017coni\u00f3w"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Ostr\u00f3da"}
+{"voivodeship":"ma\u0142opolskie","city":"Nowy Targ"}
+{"voivodeship":"zachodniopomorskie","city":"Police"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"I\u0142awa"}
+{"voivodeship":"\u015bl\u0105skie","city":"Czelad\u017a"}
+{"voivodeship":"\u015bl\u0105skie","city":"Myszk\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"O\u0142awa"}
+{"voivodeship":"\u015bl\u0105skie","city":"\u017bywiec"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Zgorzelec"}
+{"voivodeship":"mazowieckie","city":"Z\u0105bki"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Bielawa"}
+{"voivodeship":"wielkopolskie","city":"Swarz\u0119dz"}
+{"voivodeship":"mazowieckie","city":"M\u0142awa"}
+{"voivodeship":"lubelskie","city":"\u0141uk\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"Lubo\u0144"}
+{"voivodeship":"podlaskie","city":"August\u00f3w"}
+{"voivodeship":"ma\u0142opolskie","city":"Bochnia"}
+{"voivodeship":"wielkopolskie","city":"\u015arem"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Gi\u017cycko"}
+{"voivodeship":"mazowieckie","city":"Grodzisk Mazowiecki"}
+{"voivodeship":"wielkopolskie","city":"Wrze\u015bnia"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"\u0141owicz"}
+{"voivodeship":"wielkopolskie","city":"Krotoszyn"}
+{"voivodeship":"mazowieckie","city":"Marki"}
+{"voivodeship":"pomorskie","city":"Pruszcz Gda\u0144ski"}
+{"voivodeship":"kujawsko-pomorskie","city":"Brodnica"}
+{"voivodeship":"\u015bl\u0105skie","city":"Czerwionka-Leszczyny"}
+{"voivodeship":"ma\u0142opolskie","city":"Gorlice"}
+{"voivodeship":"mazowieckie","city":"Nowy Dw\u00f3r Mazowiecki"}
+{"voivodeship":"wielkopolskie","city":"Turek"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"K\u0119trzyn"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"K\u0142odzko"}
+{"voivodeship":"ma\u0142opolskie","city":"Zakopane"}
+{"voivodeship":"mazowieckie","city":"Wyszk\u00f3w"}
+{"voivodeship":"lubelskie","city":"Bi\u0142goraj"}
+{"voivodeship":"lubuskie","city":"\u017baga\u0144"}
+{"voivodeship":"kujawsko-pomorskie","city":"\u015awiecie"}
+{"voivodeship":"podlaskie","city":"Bielsk Podlaski"}
+{"voivodeship":"wielkopolskie","city":"Jarocin"}
+{"voivodeship":"zachodniopomorskie","city":"Wa\u0142cz"}
+{"voivodeship":"\u015bl\u0105skie","city":"Pszczyna"}
+{"voivodeship":"wielkopolskie","city":"W\u0105growiec"}
+{"voivodeship":"zachodniopomorskie","city":"Bia\u0142ogard"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Sandomierz"}
+{"voivodeship":"opolskie","city":"Kluczbork"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Bartoszyce"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Szczytno"}
+{"voivodeship":"\u015bl\u0105skie","city":"Lubliniec"}
+{"voivodeship":"ma\u0142opolskie","city":"Skawina"}
+{"voivodeship":"wielkopolskie","city":"Ko\u015bcian"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Jawor"}
+{"voivodeship":"pomorskie","city":"Ko\u015bcierzyna"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Wielu\u0144"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Nowa Ruda"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"\u015awiebodzice"}
+{"voivodeship":"pomorskie","city":"Reda"}
+{"voivodeship":"wielkopolskie","city":"Ko\u0142o"}
+{"voivodeship":"mazowieckie","city":"Piast\u00f3w"}
+{"voivodeship":"mazowieckie","city":"Ostr\u00f3w Mazowiecka"}
+{"voivodeship":"zachodniopomorskie","city":"Goleni\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Polkowice"}
+{"voivodeship":"wielkopolskie","city":"\u015aroda Wielkopolska"}
+{"voivodeship":"lubelskie","city":"Lubart\u00f3w"}
+{"voivodeship":"mazowieckie","city":"P\u0142o\u0144sk"}
+{"voivodeship":"\u015bl\u0105skie","city":"\u0141aziska G\u00f3rne"}
+{"voivodeship":"podlaskie","city":"Zambr\u00f3w"}
+{"voivodeship":"podlaskie","city":"Grajewo"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Mr\u0105gowo"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Opoczno"}
+{"voivodeship":"lubuskie","city":"\u015awiebodzin"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Luba\u0144"}
+{"voivodeship":"\u015bl\u0105skie","city":"Rydu\u0142towy"}
+{"voivodeship":"opolskie","city":"Prudnik"}
+{"voivodeship":"zachodniopomorskie","city":"Gryfino"}
+{"voivodeship":"podlaskie","city":"Hajn\u00f3wka"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Dzia\u0142dowo"}
+{"voivodeship":"ma\u0142opolskie","city":"Wieliczka"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Aleksandr\u00f3w \u0141\u00f3dzki"}
+{"voivodeship":"ma\u0142opolskie","city":"Andrych\u00f3w"}
+{"voivodeship":"mazowieckie","city":"Koby\u0142ka"}
+{"voivodeship":"wielkopolskie","city":"Rawicz"}
+{"voivodeship":"kujawsko-pomorskie","city":"Che\u0142mno"}
+{"voivodeship":"ma\u0142opolskie","city":"Trzebinia"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Ko\u0144skie"}
+{"voivodeship":"wielkopolskie","city":"Gosty\u0144"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Ozork\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Kamienna G\u00f3ra"}
+{"voivodeship":"\u015bl\u0105skie","city":"Orzesze"}
+{"voivodeship":"lubelskie","city":"Tomasz\u00f3w Lubelski"}
+{"voivodeship":"lubelskie","city":"\u0141\u0119czna"}
+{"voivodeship":"mazowieckie","city":"J\u00f3zef\u00f3w"}
+{"voivodeship":"\u015bl\u0105skie","city":"Bieru\u0144"}
+{"voivodeship":"lubelskie","city":"Krasnystaw"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Pisz"}
+{"voivodeship":"wielkopolskie","city":"Chodzie\u017c"}
+{"voivodeship":"mazowieckie","city":"Pionki"}
+{"voivodeship":"mazowieckie","city":"Sulej\u00f3wek"}
+{"voivodeship":"ma\u0142opolskie","city":"Wadowice"}
+{"voivodeship":"mazowieckie","city":"Pu\u0142tusk"}
+{"voivodeship":"kujawsko-pomorskie","city":"Nak\u0142o nad Noteci\u0105"}
+{"voivodeship":"ma\u0142opolskie","city":"K\u0119ty"}
+{"voivodeship":"mazowieckie","city":"Gostynin"}
+{"voivodeship":"wielkopolskie","city":"Szamotu\u0142y"}
+{"voivodeship":"podlaskie","city":"Sok\u00f3\u0142ka"}
+{"voivodeship":"mazowieckie","city":"Soko\u0142\u00f3w Podlaski"}
+{"voivodeship":"\u015bl\u0105skie","city":"Pyskowice"}
+{"voivodeship":"wielkopolskie","city":"Z\u0142ot\u00f3w"}
+{"voivodeship":"lubelskie","city":"Hrubiesz\u00f3w"}
+{"voivodeship":"lubuskie","city":"Mi\u0119dzyrzecz"}
+{"voivodeship":"mazowieckie","city":"Sierpc"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Bogatynia"}
+{"voivodeship":"opolskie","city":"Strzelce Opolskie"}
+{"voivodeship":"wielkopolskie","city":"Oborniki"}
+{"voivodeship":"ma\u0142opolskie","city":"My\u015blenice"}
+{"voivodeship":"mazowieckie","city":"Kozienice"}
+{"voivodeship":"lubuskie","city":"Kostrzyn nad Odr\u0105"}
+{"voivodeship":"podkarpackie","city":"\u0141a\u0144cut"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"\u0141ask"}
+{"voivodeship":"\u015bl\u0105skie","city":"Radlin"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Rawa Mazowiecka"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Konstantyn\u00f3w \u0141\u00f3dzki"}
+{"voivodeship":"wielkopolskie","city":"Pleszew"}
+{"voivodeship":"lubuskie","city":"Sulech\u00f3w"}
+{"voivodeship":"mazowieckie","city":"Zielonka"}
+{"voivodeship":"mazowieckie","city":"Konstancin-Jeziorna"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Braniewo"}
+{"voivodeship":"ma\u0142opolskie","city":"Libi\u0105\u017c"}
+{"voivodeship":"mazowieckie","city":"Przasnysz"}
+{"voivodeship":"wielkopolskie","city":"Trzcianka"}
+{"voivodeship":"mazowieckie","city":"Garwolin"}
+{"voivodeship":"lubelskie","city":"Mi\u0119dzyrzec Podlaski"}
+{"voivodeship":"ma\u0142opolskie","city":"Brzesko"}
+{"voivodeship":"lubelskie","city":"D\u0119blin"}
+{"voivodeship":"\u015bl\u0105skie","city":"Radzionk\u00f3w"}
+{"voivodeship":"lubuskie","city":"Gubin"}
+{"voivodeship":"zachodniopomorskie","city":"Nowogard"}
+{"voivodeship":"opolskie","city":"Krapkowice"}
+{"voivodeship":"zachodniopomorskie","city":"Gryfice"}
+{"voivodeship":"lubuskie","city":"S\u0142ubice"}
+{"voivodeship":"pomorskie","city":"Byt\u00f3w"}
+{"voivodeship":"kujawsko-pomorskie","city":"Rypin"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Strzegom"}
+{"voivodeship":"\u015bl\u0105skie","city":"L\u0119dziny"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Busko-Zdr\u00f3j"}
+{"voivodeship":"mazowieckie","city":"\u0141omianki"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Olecko"}
+{"voivodeship":"mazowieckie","city":"Gr\u00f3jec"}
+{"voivodeship":"mazowieckie","city":"Milan\u00f3wek"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Lidzbark Warmi\u0144ski"}
+{"voivodeship":"pomorskie","city":"Ustka"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Bogusz\u00f3w-Gorce"}
+{"voivodeship":"lubelskie","city":"Radzy\u0144 Podlaski"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Z\u0142otoryja"}
+{"voivodeship":"opolskie","city":"Namys\u0142\u00f3w"}
+{"voivodeship":"podlaskie","city":"\u0141apy"}
+{"voivodeship":"\u015bl\u0105skie","city":"Ustro\u0144"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Jelcz-Laskowice"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"J\u0119drzej\u00f3w"}
+{"voivodeship":"podkarpackie","city":"Przeworsk"}
+{"voivodeship":"zachodniopomorskie","city":"\u015awidwin"}
+{"voivodeship":"zachodniopomorskie","city":"Choszczno"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Z\u0105bkowice \u015al\u0105skie"}
+{"voivodeship":"podkarpackie","city":"Ropczyce"}
+{"voivodeship":"kujawsko-pomorskie","city":"Solec Kujawski"}
+{"voivodeship":"podkarpackie","city":"Nisko"}
+{"voivodeship":"pomorskie","city":"W\u0142adys\u0142awowo"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Stasz\u00f3w"}
+{"voivodeship":"ma\u0142opolskie","city":"Limanowa"}
+{"voivodeship":"kujawsko-pomorskie","city":"Lipno"}
+{"voivodeship":"kujawsko-pomorskie","city":"Che\u0142m\u017ca"}
+{"voivodeship":"wielkopolskie","city":"Nowy Tomy\u015bl"}
+{"voivodeship":"pomorskie","city":"Kartuzy"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"G\u0142owno"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"\u0141\u0119czyca"}
+{"voivodeship":"podlaskie","city":"Siemiatycze"}
+{"voivodeship":"\u015bl\u0105skie","city":"Skocz\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"K\u0119pno"}
+{"voivodeship":"lubuskie","city":"Lubsko"}
+{"voivodeship":"wielkopolskie","city":"Ostrzesz\u00f3w"}
+{"voivodeship":"pomorskie","city":"Cz\u0142uch\u00f3w"}
+{"voivodeship":"podkarpackie","city":"Le\u017cajsk"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Mor\u0105g"}
+{"voivodeship":"wielkopolskie","city":"Grodzisk Wielkopolski"}
+{"voivodeship":"lubuskie","city":"Wschowa"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Nidzica"}
+{"voivodeship":"zachodniopomorskie","city":"Barlinek"}
+{"voivodeship":"opolskie","city":"G\u0142ucho\u0142azy"}
+{"voivodeship":"\u015bl\u0105skie","city":"Psz\u00f3w"}
+{"voivodeship":"zachodniopomorskie","city":"Dar\u0142owo"}
+{"voivodeship":"kujawsko-pomorskie","city":"\u017bnin"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Chojn\u00f3w"}
+{"voivodeship":"zachodniopomorskie","city":"D\u0119bno"}
+{"voivodeship":"kujawsko-pomorskie","city":"W\u0105brze\u017ano"}
+{"voivodeship":"wielkopolskie","city":"S\u0142upca"}
+{"voivodeship":"kujawsko-pomorskie","city":"Tuchola"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Go\u0142dap"}
+{"voivodeship":"lubelskie","city":"W\u0142odawa"}
+{"voivodeship":"wielkopolskie","city":"Wolsztyn"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Koluszki"}
+{"voivodeship":"\u015bl\u0105skie","city":"K\u0142obuck"}
+{"voivodeship":"zachodniopomorskie","city":"Z\u0142ocieniec"}
+{"voivodeship":"ma\u0142opolskie","city":"Rabka-Zdr\u00f3j"}
+{"voivodeship":"mazowieckie","city":"Brwin\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"Mosina"}
+{"voivodeship":"opolskie","city":"G\u0142ubczyce"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Trzebnica"}
+{"voivodeship":"kujawsko-pomorskie","city":"Golub-Dobrzy\u0144"}
+{"voivodeship":"zachodniopomorskie","city":"S\u0142awno"}
+{"voivodeship":"zachodniopomorskie","city":"Pyrzyce"}
+{"voivodeship":"mazowieckie","city":"W\u0119gr\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Wo\u0142\u00f3w"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Brzeziny"}
+{"voivodeship":"mazowieckie","city":"B\u0142onie"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Strzelin"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Brzeg Dolny"}
+{"voivodeship":"podkarpackie","city":"Lubacz\u00f3w"}
+{"voivodeship":"kujawsko-pomorskie","city":"Aleksandr\u00f3w Kujawski"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Pas\u0142\u0119k"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"G\u00f3ra"}
+{"voivodeship":"kujawsko-pomorskie","city":"Mogilno"}
+{"voivodeship":"lubuskie","city":"Szprotawa"}
+{"voivodeship":"lubelskie","city":"Jan\u00f3w Lubelski"}
+{"voivodeship":"mazowieckie","city":"Szyd\u0142owiec"}
+{"voivodeship":"lubuskie","city":"Krosno Odrza\u0144skie"}
+{"voivodeship":"opolskie","city":"Zdzieszowice"}
+{"voivodeship":"zachodniopomorskie","city":"Drawsko Pomorskie"}
+{"voivodeship":"ma\u0142opolskie","city":"D\u0105browa Tarnowska"}
+{"voivodeship":"ma\u0142opolskie","city":"Miech\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Milicz"}
+{"voivodeship":"mazowieckie","city":"Warka"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"W\u0119gorzewo"}
+{"voivodeship":"mazowieckie","city":"G\u00f3ra Kalwaria"}
+{"voivodeship":"ma\u0142opolskie","city":"Brzeszcze"}
+{"voivodeship":"zachodniopomorskie","city":"My\u015blib\u00f3rz"}
+{"voivodeship":"wielkopolskie","city":"Wronki"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Kowary"}
+{"voivodeship":"podkarpackie","city":"Nowa D\u0119ba"}
+{"voivodeship":"pomorskie","city":"Puck"}
+{"voivodeship":"kujawsko-pomorskie","city":"Koronowo"}
+{"voivodeship":"mazowieckie","city":"Radzymin"}
+{"voivodeship":"wielkopolskie","city":"Rogo\u017ano"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Pi\u0144cz\u00f3w"}
+{"voivodeship":"\u015bl\u0105skie","city":"Wis\u0142a"}
+{"voivodeship":"wielkopolskie","city":"Czarnk\u00f3w"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Nowe Miasto Lubawskie"}
+{"voivodeship":"ma\u0142opolskie","city":"Krynica-Zdr\u00f3j"}
+{"voivodeship":"lubelskie","city":"Parczew"}
+{"voivodeship":"pomorskie","city":"Miastko"}
+{"voivodeship":"ma\u0142opolskie","city":"Niepo\u0142omice"}
+{"voivodeship":"wielkopolskie","city":"Mi\u0119dzych\u00f3d"}
+{"voivodeship":"kujawsko-pomorskie","city":"Ciechocinek"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Biskupiec"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Dobre Miasto"}
+{"voivodeship":"podlaskie","city":"Kolno"}
+{"voivodeship":"mazowieckie","city":"O\u017car\u00f3w Mazowiecki"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"W\u0142oszczowa"}
+{"voivodeship":"podlaskie","city":"Wasilk\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Bystrzyca K\u0142odzka"}
+{"voivodeship":"lubuskie","city":"Drezdenko"}
+{"voivodeship":"zachodniopomorskie","city":"\u0141obez"}
+{"voivodeship":"ma\u0142opolskie","city":"Bukowno"}
+{"voivodeship":"wielkopolskie","city":"Murowana Go\u015blina"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Syc\u00f3w"}
+{"voivodeship":"podlaskie","city":"Mo\u0144ki"}
+{"voivodeship":"pomorskie","city":"Sztum"}
+{"voivodeship":"ma\u0142opolskie","city":"Krzeszowice"}
+{"voivodeship":"lubuskie","city":"Sul\u0119cin"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Kudowa-Zdr\u00f3j"}
+{"voivodeship":"zachodniopomorskie","city":"Trzebiat\u00f3w"}
+{"voivodeship":"lubuskie","city":"Strzelce Kraje\u0144skie"}
+{"voivodeship":"mazowieckie","city":"Karczew"}
+{"voivodeship":"mazowieckie","city":"Mak\u00f3w Mazowiecki"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Lubawa"}
+{"voivodeship":"pomorskie","city":"Nowy Dw\u00f3r Gda\u0144ski"}
+{"voivodeship":"pomorskie","city":"Czersk"}
+{"voivodeship":"lubelskie","city":"Ryki"}
+{"voivodeship":"lubuskie","city":"Skwierzyna"}
+{"voivodeship":"\u015bl\u0105skie","city":"Blachownia"}
+{"voivodeship":"wielkopolskie","city":"Puszczykowo"}
+{"voivodeship":"lubuskie","city":"Ko\u017cuch\u00f3w"}
+{"voivodeship":"podlaskie","city":"Czarna Bia\u0142ostocka"}
+{"voivodeship":"lubelskie","city":"Poniatowa"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Pieszyce"}
+{"voivodeship":"opolskie","city":"Olesno"}
+{"voivodeship":"wielkopolskie","city":"Opalenica"}
+{"voivodeship":"kujawsko-pomorskie","city":"Szubin"}
+{"voivodeship":"podlaskie","city":"Wysokie Mazowieckie"}
+{"voivodeship":"wielkopolskie","city":"Kostrzyn"}
+{"voivodeship":"ma\u0142opolskie","city":"Sucha Beskidzka"}
+{"voivodeship":"podkarpackie","city":"Ustrzyki Dolne"}
+{"voivodeship":"kujawsko-pomorskie","city":"S\u0119p\u00f3lno Kraje\u0144skie"}
+{"voivodeship":"podkarpackie","city":"Kolbuszowa"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"\u015aroda \u015al\u0105ska"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Lw\u00f3wek \u015al\u0105ski"}
+{"voivodeship":"opolskie","city":"Ozimek"}
+{"voivodeship":"ma\u0142opolskie","city":"Che\u0142mek"}
+{"voivodeship":"kujawsko-pomorskie","city":"Kruszwica"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Zi\u0119bice"}
+{"voivodeship":"ma\u0142opolskie","city":"Stary S\u0105cz"}
+{"voivodeship":"\u015bl\u0105skie","city":"Wojkowice"}
+{"voivodeship":"kujawsko-pomorskie","city":"Janikowo"}
+{"voivodeship":"zachodniopomorskie","city":"Kamie\u0144 Pomorski"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Orneta"}
+{"voivodeship":"wielkopolskie","city":"Pobiedziska"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Oborniki \u015al\u0105skie"}
+{"voivodeship":"mazowieckie","city":"\u017buromin"}
+{"voivodeship":"podkarpackie","city":"Strzy\u017c\u00f3w"}
+{"voivodeship":"ma\u0142opolskie","city":"Wolbrom"}
+{"voivodeship":"opolskie","city":"Grodk\u00f3w"}
+{"voivodeship":"lubelskie","city":"Opole Lubelskie"}
+{"voivodeship":"pomorskie","city":"Prabuty"}
+{"voivodeship":"\u015bl\u0105skie","city":"Por\u0119ba"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Wierusz\u00f3w"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Suchedni\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"Jastrowie"}
+{"voivodeship":"\u015bl\u0105skie","city":"Imielin"}
+{"voivodeship":"\u015bl\u0105skie","city":"Kalety"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"\u017bychlin"}
+{"voivodeship":"zachodniopomorskie","city":"Po\u0142czyn-Zdr\u00f3j"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Po\u0142aniec"}
+{"voivodeship":"pomorskie","city":"Pelplin"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Chocian\u00f3w"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Lidzbark"}
+{"voivodeship":"mazowieckie","city":"Zwole\u0144"}
+{"voivodeship":"wielkopolskie","city":"Witkowo"}
+{"voivodeship":"mazowieckie","city":"T\u0142uszcz"}
+{"voivodeship":"wielkopolskie","city":"Pniewy"}
+{"voivodeship":"opolskie","city":"Praszka"}
+{"voivodeship":"opolskie","city":"Paczk\u00f3w"}
+{"voivodeship":"ma\u0142opolskie","city":"Mszana Dolna"}
+{"voivodeship":"wielkopolskie","city":"Trzemeszno"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Zel\u00f3w"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Podd\u0119bice"}
+{"voivodeship":"kujawsko-pomorskie","city":"Barcin"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Olsztynek"}
+{"voivodeship":"mazowieckie","city":"Nasielsk"}
+{"voivodeship":"opolskie","city":"Zawadzkie"}
+{"voivodeship":"podkarpackie","city":"Brzoz\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"K\u00f3rnik"}
+{"voivodeship":"podkarpackie","city":"S\u0119dzisz\u00f3w Ma\u0142opolski"}
+{"voivodeship":"\u015bl\u0105skie","city":"Miasteczko \u015al\u0105skie"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Tuszyn"}
+{"voivodeship":"zachodniopomorskie","city":"Chojna"}
+{"voivodeship":"kujawsko-pomorskie","city":"Gniewkowo"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Barczewo"}
+{"voivodeship":"wielkopolskie","city":"Zb\u0105szy\u0144"}
+{"voivodeship":"zachodniopomorskie","city":"Czaplinek"}
+{"voivodeship":"mazowieckie","city":"Bia\u0142obrzegi"}
+{"voivodeship":"\u015bl\u0105skie","city":"S\u0142awk\u00f3w"}
+{"voivodeship":"mazowieckie","city":"\u0141osice"}
+{"voivodeship":"pomorskie","city":"Skarszewy"}
+{"voivodeship":"\u015bl\u0105skie","city":"\u0141azy"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Sob\u00f3tka"}
+{"voivodeship":"lubuskie","city":"Witnica"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Gryf\u00f3w \u015al\u0105ski"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"\u017bar\u00f3w"}
+{"voivodeship":"pomorskie","city":"Gniew"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Szklarska Por\u0119ba"}
+{"voivodeship":"podkarpackie","city":"Rudnik nad Sanem"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Paj\u0119czno"}
+{"voivodeship":"mazowieckie","city":"\u0141och\u00f3w"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Opat\u00f3w"}
+{"voivodeship":"lubelskie","city":"Be\u0142\u017cyce"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Twardog\u00f3ra"}
+{"voivodeship":"wielkopolskie","city":"K\u0142odawa"}
+{"voivodeship":"ma\u0142opolskie","city":"Tuch\u00f3w"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"S\u0119dzisz\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"Ko\u017amin Wielkopolski"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Pi\u0142awa G\u00f3rna"}
+{"voivodeship":"lubuskie","city":"Rzepin"}
+{"voivodeship":"zachodniopomorskie","city":"Sian\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Polanica-Zdr\u00f3j"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"G\u0142uszyca"}
+{"voivodeship":"opolskie","city":"Niemodlin"}
+{"voivodeship":"opolskie","city":"Gogolin"}
+{"voivodeship":"pomorskie","city":"\u017bukowo"}
+{"voivodeship":"ma\u0142opolskie","city":"Su\u0142kowice"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Piechowice"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"\u017bmigr\u00f3d"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Przemk\u00f3w"}
+{"voivodeship":"mazowieckie","city":"Mszczon\u00f3w"}
+{"voivodeship":"ma\u0142opolskie","city":"Dobczyce"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"K\u0105ty Wroc\u0142awskie"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Sulej\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Lubawka"}
+{"voivodeship":"wielkopolskie","city":"Buk"}
+{"voivodeship":"wielkopolskie","city":"Krzy\u017c Wielkopolski"}
+{"voivodeship":"kujawsko-pomorskie","city":"Nowe"}
+{"voivodeship":"podkarpackie","city":"Dyn\u00f3w"}
+{"voivodeship":"ma\u0142opolskie","city":"Proszowice"}
+{"voivodeship":"podkarpackie","city":"Nowa Sarzyna"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Dzia\u0142oszyn"}
+{"voivodeship":"\u015bl\u0105skie","city":"Koniecpol"}
+{"voivodeship":"mazowieckie","city":"Przysucha"}
+{"voivodeship":"opolskie","city":"Kietrz"}
+{"voivodeship":"podkarpackie","city":"G\u0142og\u00f3w Ma\u0142opolski"}
+{"voivodeship":"wielkopolskie","city":"Sierak\u00f3w"}
+{"voivodeship":"pomorskie","city":"Czarne"}
+{"voivodeship":"ma\u0142opolskie","city":"Gryb\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Siechnice"}
+{"voivodeship":"ma\u0142opolskie","city":"Mak\u00f3w Podhala\u0144ski"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Stronie \u015al\u0105skie"}
+{"voivodeship":"wielkopolskie","city":"Wiele\u0144"}
+{"voivodeship":"opolskie","city":"Lewin Brzeski"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"St\u0105pork\u00f3w"}
+{"voivodeship":"opolskie","city":"Wo\u0142czyn"}
+{"voivodeship":"ma\u0142opolskie","city":"Szczawnica"}
+{"voivodeship":"ma\u0142opolskie","city":"Piwniczna-Zdr\u00f3j"}
+{"voivodeship":"zachodniopomorskie","city":"Karlino"}
+{"voivodeship":"kujawsko-pomorskie","city":"Wi\u0119cbork"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Pie\u0144sk"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"L\u0105dek-Zdr\u00f3j"}
+{"voivodeship":"podlaskie","city":"D\u0105browa Bia\u0142ostocka"}
+{"voivodeship":"podkarpackie","city":"Boguchwa\u0142a"}
+{"voivodeship":"wielkopolskie","city":"St\u0119szew"}
+{"voivodeship":"kujawsko-pomorskie","city":"Radziej\u00f3w"}
+{"voivodeship":"mazowieckie","city":"Lipsko"}
+{"voivodeship":"lubelskie","city":"Terespol"}
+{"voivodeship":"kujawsko-pomorskie","city":"Strzelno"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"\u015acinawa"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Orzysz"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Szczawno-Zdr\u00f3j"}
+{"voivodeship":"podlaskie","city":"Choroszcz"}
+{"voivodeship":"opolskie","city":"G\u0142og\u00f3wek"}
+{"voivodeship":"kujawsko-pomorskie","city":"Pako\u015b\u0107"}
+{"voivodeship":"\u015bl\u0105skie","city":"Szczyrk"}
+{"voivodeship":"podkarpackie","city":"Jedlicze"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Kazimierza Wielka"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Susz"}
+{"voivodeship":"podlaskie","city":"Sejny"}
+{"voivodeship":"podkarpackie","city":"Lesko"}
+{"voivodeship":"wielkopolskie","city":"\u015amigiel"}
+{"voivodeship":"pomorskie","city":"Dzierzgo\u0144"}
+{"voivodeship":"podkarpackie","city":"Radymno"}
+{"voivodeship":"\u015bl\u0105skie","city":"Ku\u017ania Raciborska"}
+{"voivodeship":"zachodniopomorskie","city":"Mi\u0119dzyzdroje"}
+{"voivodeship":"\u015bl\u0105skie","city":"Siewierz"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Szczytna"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Bolk\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"Czempi\u0144"}
+{"voivodeship":"ma\u0142opolskie","city":"Jordan\u00f3w"}
+{"voivodeship":"lubelskie","city":"Szczebrzeszyn"}
+{"voivodeship":"pomorskie","city":"Debrzno"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Jaworzyna \u015al\u0105ska"}
+{"voivodeship":"wielkopolskie","city":"Wyrzysk"}
+{"voivodeship":"lubelskie","city":"Bychawa"}
+{"voivodeship":"lubuskie","city":"Nowogr\u00f3d Bobrza\u0144ski"}
+{"voivodeship":"wielkopolskie","city":"Odolan\u00f3w"}
+{"voivodeship":"podkarpackie","city":"Zag\u00f3rz"}
+{"voivodeship":"lubuskie","city":"Zb\u0105szynek"}
+{"voivodeship":"ma\u0142opolskie","city":"Muszyna"}
+{"voivodeship":"opolskie","city":"Otmuch\u00f3w"}
+{"voivodeship":"mazowieckie","city":"I\u0142\u017ca"}
+{"voivodeship":"pomorskie","city":"Brusy"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Bierut\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Jedlina-Zdr\u00f3j"}
+{"voivodeship":"zachodniopomorskie","city":"Wolin"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Karpacz"}
+{"voivodeship":"mazowieckie","city":"\u0141askarzew"}
+{"voivodeship":"zachodniopomorskie","city":"Borne Sulinowo"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Duszniki-Zdr\u00f3j"}
+{"voivodeship":"podlaskie","city":"Ciechanowiec"}
+{"voivodeship":"wielkopolskie","city":"Nowe Skalmierzyce"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Reszel"}
+{"voivodeship":"podkarpackie","city":"Pilzno"}
+{"voivodeship":"kujawsko-pomorskie","city":"Kcynia"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"O\u017car\u00f3w"}
+{"voivodeship":"kujawsko-pomorskie","city":"Brze\u015b\u0107 Kujawski"}
+{"voivodeship":"ma\u0142opolskie","city":"Biecz"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Ruciane-Nida"}
+{"voivodeship":"podlaskie","city":"Supra\u015bl"}
+{"voivodeship":"mazowieckie","city":"Raci\u0105\u017c"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Le\u015bna"}
+{"voivodeship":"ma\u0142opolskie","city":"Kalwaria Zebrzydowska"}
+{"voivodeship":"wielkopolskie","city":"Zduny"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Korsze"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Kro\u015bniewice"}
+{"voivodeship":"kujawsko-pomorskie","city":"\u0141abiszyn"}
+{"voivodeship":"lubelskie","city":"Rejowiec Fabryczny"}
+{"voivodeship":"\u015bl\u0105skie","city":"\u017barki"}
+{"voivodeship":"wielkopolskie","city":"Golina"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Olszyna"}
+{"voivodeship":"lubuskie","city":"Jasie\u0144"}
+{"voivodeship":"\u015bl\u0105skie","city":"Wo\u017aniki"}
+{"voivodeship":"\u015bl\u0105skie","city":"Krzepice"}
+{"voivodeship":"kujawsko-pomorskie","city":"Piotrk\u00f3w Kujawski"}
+{"voivodeship":"lubuskie","city":"Bytom Odrza\u0144ski"}
+{"voivodeship":"mazowieckie","city":"Pilawa"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Ch\u0119ciny"}
+{"voivodeship":"ma\u0142opolskie","city":"S\u0142omniki"}
+{"voivodeship":"kujawsko-pomorskie","city":"Mrocza"}
+{"voivodeship":"\u015bl\u0105skie","city":"Ogrodzieniec"}
+{"voivodeship":"zachodniopomorskie","city":"Kalisz Pomorski"}
+{"voivodeship":"zachodniopomorskie","city":"Resko"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Zawid\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"Szamocin"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"\u015awierad\u00f3w-Zdr\u00f3j"}
+{"voivodeship":"pomorskie","city":"Nowy Staw"}
+{"voivodeship":"mazowieckie","city":"Skaryszew"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Mierosz\u00f3w"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"G\u00f3rowo I\u0142aweckie"}
+{"voivodeship":"kujawsko-pomorskie","city":"Kowalewo Pomorskie"}
+{"voivodeship":"wielkopolskie","city":"Kleczew"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Nowogrodziec"}
+{"voivodeship":"ma\u0142opolskie","city":"\u017babno"}
+{"voivodeship":"zachodniopomorskie","city":"Bobolice"}
+{"voivodeship":"lubuskie","city":"Czerwie\u0144sk"}
+{"voivodeship":"wielkopolskie","city":"Krobia"}
+{"voivodeship":"ma\u0142opolskie","city":"Szczucin"}
+{"voivodeship":"wielkopolskie","city":"Skoki"}
+{"voivodeship":"mazowieckie","city":"G\u0105bin"}
+{"voivodeship":"mazowieckie","city":"Serock"}
+{"voivodeship":"mazowieckie","city":"Tarczyn"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Bia\u0142a Piska"}
+{"voivodeship":"zachodniopomorskie","city":"P\u0142oty"}
+{"voivodeship":"kujawsko-pomorskie","city":"Janowiec Wielkopolski"}
+{"voivodeship":"zachodniopomorskie","city":"Lipiany"}
+{"voivodeship":"mazowieckie","city":"\u017belech\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Mirsk"}
+{"voivodeship":"podkarpackie","city":"Soko\u0142\u00f3w Ma\u0142opolski"}
+{"voivodeship":"lubuskie","city":"Babimost"}
+{"voivodeship":"lubelskie","city":"Na\u0142\u0119cz\u00f3w"}
+{"voivodeship":"lubuskie","city":"I\u0142owa"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Drzewica"}
+{"voivodeship":"wielkopolskie","city":"Okonek"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Ma\u0142ogoszcz"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Chmielnik"}
+{"voivodeship":"mazowieckie","city":"Nowe Miasto nad Pilic\u0105"}
+{"voivodeship":"lubuskie","city":"S\u0142awa"}
+{"voivodeship":"lubuskie","city":"O\u015bno Lubuskie"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Miko\u0142ajki"}
+{"voivodeship":"pomorskie","city":"Jastarnia"}
+{"voivodeship":"mazowieckie","city":"Podkowa Le\u015bna"}
+{"voivodeship":"podlaskie","city":"Bra\u0144sk"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Wojciesz\u00f3w"}
+{"voivodeship":"zachodniopomorskie","city":"Barwice"}
+{"voivodeship":"wielkopolskie","city":"Uj\u015bcie"}
+{"voivodeship":"kujawsko-pomorskie","city":"Jab\u0142onowo Pomorskie"}
+{"voivodeship":"pomorskie","city":"\u0141eba"}
+{"voivodeship":"wielkopolskie","city":"Krajenka"}
+{"voivodeship":"opolskie","city":"Dobrodzie\u0144"}
+{"voivodeship":"pomorskie","city":"K\u0119pice"}
+{"voivodeship":"ma\u0142opolskie","city":"Ska\u0142a"}
+{"voivodeship":"podkarpackie","city":"Pruchnik"}
+{"voivodeship":"\u015bl\u0105skie","city":"Szczekociny"}
+{"voivodeship":"lubuskie","city":"Kargowa"}
+{"voivodeship":"opolskie","city":"Byczyna"}
+{"voivodeship":"podkarpackie","city":"Ryman\u00f3w"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Przedb\u00f3rz"}
+{"voivodeship":"ma\u0142opolskie","city":"Zator"}
+{"voivodeship":"wielkopolskie","city":"Sompolno"}
+{"voivodeship":"kujawsko-pomorskie","city":"Sk\u0119pe"}
+{"voivodeship":"pomorskie","city":"Hel"}
+{"voivodeship":"\u015bl\u0105skie","city":"Toszek"}
+{"voivodeship":"mazowieckie","city":"Halin\u00f3w"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Prochowice"}
+{"voivodeship":"\u015bl\u0105skie","city":"Strumie\u0144"}
+{"voivodeship":"podkarpackie","city":"Tyczyn"}
+{"voivodeship":"wielkopolskie","city":"Mi\u0142os\u0142aw"}
+{"voivodeship":"wielkopolskie","city":"Nekla"}
+{"voivodeship":"zachodniopomorskie","city":"Mieszkowice"}
+{"voivodeship":"pomorskie","city":"Sk\u00f3rcz"}
+{"voivodeship":"lubuskie","city":"Ma\u0142omice"}
+{"voivodeship":"kujawsko-pomorskie","city":"Kowal"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Stryk\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"Rakoniewice"}
+{"voivodeship":"podlaskie","city":"Szczuczyn"}
+{"voivodeship":"lubelskie","city":"Tarnogr\u00f3d"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Rzg\u00f3w"}
+{"voivodeship":"ma\u0142opolskie","city":"Alwernia"}
+{"voivodeship":"wielkopolskie","city":"Go\u0142a\u0144cz"}
+{"voivodeship":"lubelskie","city":"Kock"}
+{"voivodeship":"ma\u0142opolskie","city":"Wojnicz"}
+{"voivodeship":"wielkopolskie","city":"Tuliszk\u00f3w"}
+{"voivodeship":"kujawsko-pomorskie","city":"\u0141asin"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Z\u0142oczew"}
+{"voivodeship":"opolskie","city":"Kolonowskie"}
+{"voivodeship":"lubelskie","city":"Zwierzyniec"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Jeziorany"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Warta"}
+{"voivodeship":"zachodniopomorskie","city":"Maszewo"}
+{"voivodeship":"lubuskie","city":"Gozdnica"}
+{"voivodeship":"wielkopolskie","city":"Miejska G\u00f3rka"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Bia\u0142a Rawska"}
+{"voivodeship":"mazowieckie","city":"Zakroczym"}
+{"voivodeship":"podkarpackie","city":"Ka\u0144czuga"}
+{"voivodeship":"wielkopolskie","city":"Kobylin"}
+{"voivodeship":"wielkopolskie","city":"Pyzdry"}
+{"voivodeship":"zachodniopomorskie","city":"Chociwel"}
+{"voivodeship":"podlaskie","city":"Micha\u0142owo"}
+{"voivodeship":"mazowieckie","city":"Myszyniec"}
+{"voivodeship":"lubuskie","city":"Dobiegniew"}
+{"voivodeship":"kujawsko-pomorskie","city":"Lubraniec"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"\u0106miel\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"\u015alesin"}
+{"voivodeship":"mazowieckie","city":"Glinojeck"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Niemcza"}
+{"voivodeship":"lubelskie","city":"Krasnobr\u00f3d"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Kun\u00f3w"}
+{"voivodeship":"podkarpackie","city":"Radomy\u015bl Wielki"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Uniej\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"Zag\u00f3r\u00f3w"}
+{"voivodeship":"wielkopolskie","city":"Lw\u00f3wek"}
+{"voivodeship":"podkarpackie","city":"Oleszyce"}
+{"voivodeship":"wielkopolskie","city":"\u0141ob\u017cenica"}
+{"voivodeship":"zachodniopomorskie","city":"Miros\u0142awiec"}
+{"voivodeship":"wielkopolskie","city":"Margonin"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"W\u0119gliniec"}
+{"voivodeship":"zachodniopomorskie","city":"Polan\u00f3w"}
+{"voivodeship":"\u015bl\u0105skie","city":"Wilamowice"}
+{"voivodeship":"ma\u0142opolskie","city":"Bobowa"}
+{"voivodeship":"opolskie","city":"Babor\u00f3w"}
+{"voivodeship":"mazowieckie","city":"Drobin"}
+{"voivodeship":"zachodniopomorskie","city":"Recz"}
+{"voivodeship":"wielkopolskie","city":"Bojanowo"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Pieni\u0119\u017cno"}
+{"voivodeship":"mazowieckie","city":"Chorzele"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Z\u0142oty Stok"}
+{"voivodeship":"mazowieckie","city":"Ka\u0142uszyn"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Ryn"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Daleszyce"}
+{"voivodeship":"wielkopolskie","city":"Poniec"}
+{"voivodeship":"zachodniopomorskie","city":"W\u0119gorzyno"}
+{"voivodeship":"wielkopolskie","city":"Sulmierzyce"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Kamie\u0144sk"}
+{"voivodeship":"lubuskie","city":"Nowe Miasteczko"}
+{"voivodeship":"ma\u0142opolskie","city":"Ryglice"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"W\u0105chock"}
+{"voivodeship":"podlaskie","city":"Knyszyn"}
+{"voivodeship":"lubuskie","city":"Cybinka"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"W\u0105sosz"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Tolkmicko"}
+{"voivodeship":"wielkopolskie","city":"Ksi\u0105\u017c Wielkopolski"}
+{"voivodeship":"ma\u0142opolskie","city":"Rad\u0142\u00f3w"}
+{"voivodeship":"zachodniopomorskie","city":"Golczewo"}
+{"voivodeship":"kujawsko-pomorskie","city":"Izbica Kujawska"}
+{"voivodeship":"wielkopolskie","city":"Rydzyna"}
+{"voivodeship":"wielkopolskie","city":"Wysoka"}
+{"voivodeship":"ma\u0142opolskie","city":"Nowy Wi\u015bnicz"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Bardo"}
+{"voivodeship":"zachodniopomorskie","city":"Dziwn\u00f3w"}
+{"voivodeship":"mazowieckie","city":"R\u00f3\u017can"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Mi\u0119dzylesie"}
+{"voivodeship":"podkarpackie","city":"Brzostek"}
+{"voivodeship":"opolskie","city":"Le\u015bnica"}
+{"voivodeship":"mazowieckie","city":"Wyszogr\u00f3d"}
+{"voivodeship":"lubelskie","city":"Stoczek \u0141ukowski"}
+{"voivodeship":"opolskie","city":"Pr\u00f3szk\u00f3w"}
+{"voivodeship":"lubelskie","city":"Piaski"}
+{"voivodeship":"wielkopolskie","city":"K\u0142ecko"}
+{"voivodeship":"lubelskie","city":"Annopol"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Mi\u0142akowo"}
+{"voivodeship":"zachodniopomorskie","city":"Pe\u0142czyce"}
+{"voivodeship":"wielkopolskie","city":"Czerniejewo"}
+{"voivodeship":"podlaskie","city":"Czy\u017cew"}
+{"voivodeship":"lubelskie","city":"Kazimierz Dolny"}
+{"voivodeship":"lubuskie","city":"\u0141\u0119knica"}
+{"voivodeship":"lubuskie","city":"Torzym"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Koprzywnica"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Pasym"}
+{"voivodeship":"wielkopolskie","city":"Borek Wielkopolski"}
+{"voivodeship":"zachodniopomorskie","city":"Tychowo"}
+{"voivodeship":"opolskie","city":"Gorz\u00f3w \u015al\u0105ski"}
+{"voivodeship":"lubelskie","city":"J\u00f3zef\u00f3w"}
+{"voivodeship":"opolskie","city":"Bia\u0142a"}
+{"voivodeship":"podlaskie","city":"Krynki"}
+{"voivodeship":"lubuskie","city":"Trzciel"}
+{"voivodeship":"podlaskie","city":"Zab\u0142ud\u00f3w"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Bisztynek"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Radk\u00f3w"}
+{"voivodeship":"ma\u0142opolskie","city":"Ci\u0119\u017ckowice"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Frombork"}
+{"voivodeship":"zachodniopomorskie","city":"Go\u015bcino"}
+{"voivodeship":"zachodniopomorskie","city":"Trzci\u0144sko-Zdr\u00f3j"}
+{"voivodeship":"podlaskie","city":"Lipsk"}
+{"voivodeship":"\u015bl\u0105skie","city":"Kozieg\u0142owy"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Mi\u0142om\u0142yn"}
+{"voivodeship":"ma\u0142opolskie","city":"\u015awi\u0105tniki G\u00f3rne"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Wolb\u00f3rz"}
+{"voivodeship":"zachodniopomorskie","city":"Dobrzany"}
+{"voivodeship":"mazowieckie","city":"Mogielnica"}
+{"voivodeship":"wielkopolskie","city":"Obrzycko"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Mi\u0119dzyb\u00f3rz"}
+{"voivodeship":"podlaskie","city":"Stawiski"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"\u015awierzawa"}
+{"voivodeship":"wielkopolskie","city":"Rychwa\u0142"}
+{"voivodeship":"kujawsko-pomorskie","city":"Kamie\u0144 Kraje\u0144ski"}
+{"voivodeship":"zachodniopomorskie","city":"Dobra"}
+{"voivodeship":"ma\u0142opolskie","city":"Czch\u00f3w"}
+{"voivodeship":"zachodniopomorskie","city":"Cz\u0142opa"}
+{"voivodeship":"zachodniopomorskie","city":"Drawno"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Wi\u0105z\u00f3w"}
+{"voivodeship":"podlaskie","city":"Szepietowo"}
+{"voivodeship":"kujawsko-pomorskie","city":"Dobrzy\u0144 nad Wis\u0142\u0105"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Prusice"}
+{"voivodeship":"podlaskie","city":"Suchowola"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Bodzentyn"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"B\u0142aszki"}
+{"voivodeship":"wielkopolskie","city":"Osieczna"}
+{"voivodeship":"zachodniopomorskie","city":"Bia\u0142y B\u00f3r"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Zalewo"}
+{"voivodeship":"lubelskie","city":"Ostr\u00f3w Lubelski"}
+{"voivodeship":"podlaskie","city":"Nowogr\u00f3d"}
+{"voivodeship":"\u015bl\u0105skie","city":"Krzanowice"}
+{"voivodeship":"lubelskie","city":"\u0141aszcz\u00f3w"}
+{"voivodeship":"mazowieckie","city":"Kos\u00f3w Lacki"}
+{"voivodeship":"podkarpackie","city":"Sieniawa"}
+{"voivodeship":"podkarpackie","city":"B\u0142a\u017cowa"}
+{"voivodeship":"lubelskie","city":"Tyszowce"}
+{"voivodeship":"podkarpackie","city":"Dukla"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"Kisielice"}
+{"voivodeship":"wielkopolskie","city":"\u017berk\u00f3w"}
+{"voivodeship":"podlaskie","city":"Drohiczyn"}
+{"voivodeship":"podkarpackie","city":"Narol"}
+{"voivodeship":"wielkopolskie","city":"D\u0105bie"}
+{"voivodeship":"wielkopolskie","city":"Raszk\u00f3w"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"S\u0119popol"}
+{"voivodeship":"wielkopolskie","city":"Pogorzela"}
+{"voivodeship":"lubuskie","city":"Lubniewice"}
+{"voivodeship":"zachodniopomorskie","city":"I\u0144sko"}
+{"voivodeship":"\u0142\u00f3dzkie","city":"Szadek"}
+{"voivodeship":"podlaskie","city":"Tykocin"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Osiek"}
+{"voivodeship":"wielkopolskie","city":"Ostror\u00f3g"}
+{"voivodeship":"mazowieckie","city":"Brok"}
+{"voivodeship":"wielkopolskie","city":"Grab\u00f3w nad Prosn\u0105"}
+{"voivodeship":"kujawsko-pomorskie","city":"Nieszawa"}
+{"voivodeship":"podkarpackie","city":"Cieszan\u00f3w"}
+{"voivodeship":"zachodniopomorskie","city":"Tuczno"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Lubomierz"}
+{"voivodeship":"\u015bl\u0105skie","city":"Pilica"}
+{"voivodeship":"wielkopolskie","city":"Jutrosin"}
+{"voivodeship":"mazowieckie","city":"Bie\u017cu\u0144"}
+{"voivodeship":"wielkopolskie","city":"Mikstat"}
+{"voivodeship":"podlaskie","city":"Goni\u0105dz"}
+{"voivodeship":"kujawsko-pomorskie","city":"Radzy\u0144 Che\u0142mi\u0144ski"}
+{"voivodeship":"kujawsko-pomorskie","city":"Chodecz"}
+{"voivodeship":"opolskie","city":"Korfant\u00f3w"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Zawichost"}
+{"voivodeship":"\u015bl\u0105skie","city":"So\u015bnicowice"}
+{"voivodeship":"podkarpackie","city":"Iwonicz-Zdr\u00f3j"}
+{"voivodeship":"warmi\u0144sko-mazurskie","city":"M\u0142ynary"}
+{"voivodeship":"mazowieckie","city":"Mordy"}
+{"voivodeship":"dolno\u015bl\u0105skie","city":"Wle\u0144"}
+{"voivodeship":"wielkopolskie","city":"Wielichowo"}
+{"voivodeship":"wielkopolskie","city":"Przedecz"}
+{"voivodeship":"opolskie","city":"Ujazd"}
+{"voivodeship":"podlaskie","city":"Jedwabne"}
+{"voivodeship":"podkarpackie","city":"Przec\u0142aw"}
+{"voivodeship":"ma\u0142opolskie","city":"Nowe Brzesko"}
+{"voivodeship":"ma\u0142opolskie","city":"Zakliczyn"}
+{"voivodeship":"zachodniopomorskie","city":"Cedynia"}
+{"voivodeship":"wielkopolskie","city":"Krzywi\u0144"}
+{"voivodeship":"podlaskie","city":"Rajgr\u00f3d"}
+{"voivodeship":"zachodniopomorskie","city":"Mory\u0144"}
+{"voivodeship":"wielkopolskie","city":"Stawiszyn"}
+{"voivodeship":"wielkopolskie","city":"Dolsk"}
+{"voivodeship":"podkarpackie","city":"Baran\u00f3w Sandomierski"}
+{"voivodeship":"lubelskie","city":"Frampol"}
+{"voivodeship":"podkarpackie","city":"Ulan\u00f3w"}
+{"voivodeship":"zachodniopomorskie","city":"Sucha\u0144"}
+{"voivodeship":"wielkopolskie","city":"Dobra"}
+{"voivodeship":"podkarpackie","city":"Ko\u0142aczyce"}
+{"voivodeship":"kujawsko-pomorskie","city":"G\u00f3rzno"}
+{"voivodeship":"kujawsko-pomorskie","city":"Lubie\u0144 Kujawski"}
+{"voivodeship":"pomorskie","city":"Krynica Morska"}
+{"voivodeship":"podlaskie","city":"Kleszczele"}
+{"voivodeship":"lubuskie","city":"Szlichtyngowa"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Skalbmierz"}
+{"voivodeship":"zachodniopomorskie","city":"Nowe Warpno"}
+{"voivodeship":"podlaskie","city":"Sura\u017c"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Dzia\u0142oszyce"}
+{"voivodeship":"mazowieckie","city":"Wy\u015bmierzyce"}
+{"voivodeship":"lubelskie","city":"Siedliszcze"}
+{"voivodeship":"lubelskie","city":"Modliborzyce"}
+{"voivodeship":"lubelskie","city":"Urz\u0119d\u00f3w"}
+{"voivodeship":"lubelskie","city":"Lubycza Kr\u00f3lewska"}
+{"voivodeship":"mazowieckie","city":"Mrozy"}
+{"voivodeship":"podkarpackie","city":"Zaklik\u00f3w"}
+{"voivodeship":"pomorskie","city":"Czarna Woda"}
+{"voivodeship":"\u015bwi\u0119tokrzyskie","city":"Stopnica"}
+{"voivodeship":"wielkopolskie","city":"Jaraczewo"}
+{"voivodeship":"wielkopolskie","city":"Chocz"}
+{"voivodeship":"wielkopolskie","city":"Dobrzyca"}
+{"voivodeship":"zachodniopomorskie","city":"Stepnica"}
