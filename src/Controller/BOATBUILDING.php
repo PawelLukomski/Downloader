@@ -45,53 +45,7 @@ class BOATBUILDING extends Controller
                 $this->setUrl($list->href);
                 $boatPage = str_get_html($this->getMainHTML());
                 foreach ($boatPage->find("div.content") as $page) {
-                    /*
-                    if ($desc = $page->find("div.opis"))
-                        $boatData['desc'] = $desc->plaintext;
-                    */
-
-                    //var_dump($boatData);
-
-
-
                     $wlas = [];
-                    foreach ($page->find("table.dane_silnika") as $wlasc) {
-                        //preg_match_all("/^[a-zA-Z\ł\ś\ć\.\ą\ę\ń\ó\ż\s]*/m", $wlasc->html(), $filterW);
-                        //foreach ($filterW as $value)
-                            //foreach ($value as $line)
-                                //if ($line != "")
-                      /*              //$wlas[] = trim($line);
-                        foreach ($wlasc->find("tr") as $tr)
-                        {
-                            if($par1 = $tr->find("td.dane_silnika"))
-                                $parName = $par1->plaintext;
-                            if($par2 = $tr->find("td.dane_silnika2"))
-                                $properties[$parName] = $par2->plaintext;
-                        }
-
-                        //print_r("\n\n\n".$wlasc->html());
-                        //var_dump($wlas);
-*/
-                    }
-                    /*
-                    $wart = [];
-                    foreach ($page->find("div.info_wart") as $wlasc) {
-                        $filterV = explode("\n", $wlasc->text());
-                        foreach ($filterV as $value)
-                            if (trim($value) != "")
-                                $wart[] = trim($value);
-
-                        //print_r("\n\n\n".$wlasc->html());
-                        //var_dump($wart);
-
-                    }
-                    $properties = [];
-                    foreach ($wlas as $key => $wla) {
-                        $properties[$wla] = $wart[$key];
-                    }
-                    */
-                    //$boatData['properties'] = $properties;
-
                     $gallery = [];
                     $this->setUrl($list->href."&limit=1&limitstart=2");
                     $galleryPage = str_get_html($this->getMainHTML());
